@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rayanenordine@gmail.com
+	name = Rayane Nordine
